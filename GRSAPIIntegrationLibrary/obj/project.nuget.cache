@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6L8zw5A9kHR0jGtEfe+o3k1Tn/nXl6YZNlR9aXjq/7v6MNRaKrqAB61Er9vP+qPCl8siXmS0y4v0oKBaVQMwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\GRSAPIIntegrationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sschi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\sschi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

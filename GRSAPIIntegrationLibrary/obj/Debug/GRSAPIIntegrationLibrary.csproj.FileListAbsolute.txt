@@ -1,0 +1,9 @@
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\bin\Debug\GRSAPIIntegrationLibrary.dll
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\bin\Debug\GRSAPIIntegrationLibrary.pdb
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\obj\Debug\GRSAPIIntegrationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\obj\Debug\GRSAPIIntegrationLibrary.dll
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\obj\Debug\GRSAPIIntegrationLibrary.pdb
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\obj\Debug\GRSAPIIntegrationLibrary.csproj.CopyComplete
+C:\Users\sschi\source\repos\GRSAPIIntegrationLibrary\obj\Debug\GRSAPIIntegrationLibrary.csproj.AssemblyReference.cache

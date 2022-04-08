@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\GRSAPIIntegrationLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\GRSAPIIntegrationLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\GRSAPIIntegrationLibrary.csproj",
+        "projectName": "GRSAPIIntegrationLibrary",
+        "projectPath": "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\GRSAPIIntegrationLibrary.csproj",
+        "packagesPath": "C:\\Users\\sschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sschi\\source\\repos\\GRSAPIIntegrationLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\sschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget?_ga=2.243156235.844254002.1631567379-136090201.1631567379": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
